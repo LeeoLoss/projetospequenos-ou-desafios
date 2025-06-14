@@ -29,7 +29,7 @@ nome = input('Digite seu nome: ')
 print(f'Seu nome contém {len(nome)} letras')
 
 
-## 5 - retorna ao usuário com a quantidade de letras que o seu nome detém
+## 5 - retorna ao usuário a última letra de seu nome
 nome = input('Digite seu nome: ')
 if nome:
     print(f'A última letra do seu nome é: {nome[-1]}')
