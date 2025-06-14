@@ -7,7 +7,7 @@ try:
         print(f'O número {numero} é par.')
     else:
         print(f'O número {numero} é ímpar.')     
-except ValueError: ## Retorna a mensagem de erro caso o usuário não digite um número inteiro
+except: Retorna a mensagem de erro caso o usuário não digite um número inteiro
     print('Entrada inválida. Por favor, digite um número inteiro.')
 
 
