@@ -1,3 +1,5 @@
+![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
+
 # Desafios e Projetos em Java e Python
 
 Este repositório reúne pequenos projetos e desafios desenvolvidos em **Java** e **Python**, com foco em prática de programação, lógica computacional e fundamentos de back-end.
